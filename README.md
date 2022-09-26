@@ -4,6 +4,9 @@ Some projects in C++ and C# made during highschool, specifically in the 11th gra
 1. "The Cube" game is developed in Unity, written in C#. It is based on youtube tutorials
 and ultimately became my "certificate in Computer Science" (atestat) project.
 
+"Playable cube" contains the necessary files for playing.
+"Complete cube" contains all the actual code and assets.
+
 Controls: WASD for moving, P or space bar for pausing and resuming.
 There are 5 levels and the user has to reach the finish line. If an object is hit, the level restarts.
 
